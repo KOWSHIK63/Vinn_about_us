@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)https://vinntechnologies.com/about.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Vinn-About-us</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="https://vinntechnologies.com/img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="./03_files/css2" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="./03_files/all.min.css" rel="stylesheet">
+    <link href="./03_files/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="./03_files/animate.min.css" rel="stylesheet">
+    <link href="./03_files/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="./03_files/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="./03_files/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" role="status"></div>
+    </div>
+    <!-- Spinner End -->
+
+
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 px-4 px-lg-5">
+        <a href="https://vinntechnologies.com/index.html" class="navbar-brand d-flex align-items-center">
+            <h2 class="m-0 text-primary"><img class="img-fluid me-2" src="./03_files/icon-1.png" alt="" style="width: 45px;">VINN</h2>
+        </a>
+        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-4 py-lg-0">
+                <a href="https://vinntechnologies.com/index.html" class="nav-item nav-link active">Home</a>
+                <a href="https://vinntechnologies.com/about.html" class="nav-item nav-link">About</a>
+                <div class="nav-item dropdown">
+                    <a href="https://vinntechnologies.com/about.html#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Product</a>
+                    <div class="dropdown-menu shadow-sm m-0">
+                        <a href="https://vinntechnologies.com/vinn_knowledge.html" class="dropdown-item">Vinn Knowledge</a>
+                        <a href="https://vinntechnologies.com/vinn_test.html" class="dropdown-item">Vinn Test</a>
+                        <a href="https://vinntechnologies.com/vinn_jobs.html" class="dropdown-item">Vinn Jobs</a>
+                        <a href="https://vinntechnologies.com/vinn_hrms.html" class="dropdown-item">Vinn HRMS</a>
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="https://vinntechnologies.com/about.html#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Register</a>
+                    <div class="dropdown-menu shadow-sm m-0">
+                        <a href="https://forms.gle/x3WSv2MNoChPYvv48" class="dropdown-item">Register</a>
+                    </div>
+                </div>
+            </div>
+            <!--<div class="h-100 d-lg-inline-flex align-items-center d-none">
+                <a class="btn btn-square rounded-circle bg-light text-primary me-2" href=""><i
+                        class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-square rounded-circle bg-light text-primary me-2" href=""><i
+                        class="fab fa-twitter"></i></a>
+                <a class="btn btn-square rounded-circle bg-light text-primary me-0" href=""><i
+                        class="fab fa-linkedin-in"></i></a>
+            </div> -->
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+    <!-- Header Start -->
+    <div class="container-fluid hero-header bg-light py-5 mb-5">
+        <div class="container py-5">
+            <div class="row g-5 align-items-center">
+                <div class="col-lg-6">
+                    <h1 class="display-4 mb-3 animated slideInDown" style="color: white;">About Us</h1>
+                </div>
+                <div class="col-lg-6 animated fadeIn">
+                    <img class="img-fluid animated pulse infinite" style="animation-duration: 3s;" src="./03_files/hero-2.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+
+
+    <!--About us-->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-4 align-items-end mb-4">
+                <div class="col-lg-6">
+                    <img class="img-fluid rounded" src="./03_files/about_us.png">
+                </div>
+                <div class="col-lg-6">
+                    <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">About Us</p>
+                    <h5 class="mb-4">World's most powerfull AI-driven learning platfrom, Test platform, Jobs search
+                        platform &amp; Human
+                        Resource System.</h5>
+                    <p class="mb-4">With the advancement of AI and Data Sciences, it’s about time we use it to build the
+                        most powerful platform to help learners uniquely succeed. .
+
+                        With over 1.5 million engineers alone graduating every year from colleges and universities
+                        spread across the country, and over five thousand software companies vying for them, the
+                        logistics of entry-level recruitment in India are daunting, to say the least - both for
+                        recruiters as well as job-seekers. By all accounts, this challenge is only going to get more
+                        acute in the coming years, as the workforce in the knowledge industries expands to several times
+                        its current figure.
+                    </p>
+                    <div class="border rounded p-4">
+                        <nav>
+                            <div class="nav nav-tabs mb-3" id="nav-tab" role="tablist">
+                                <button class="nav-link fw-semi-bold active" id="nav-story-tab" data-bs-toggle="tab" data-bs-target="#nav-story" type="button" role="tab" aria-controls="nav-story" aria-selected="true">Vinn Knowledge</button>
+                                <button class="nav-link fw-semi-bold" id="nav-mission-tab" data-bs-toggle="tab" data-bs-target="#nav-mission" type="button" role="tab" aria-controls="nav-mission" aria-selected="false">Vinn Test</button>
+                                <button class="nav-link fw-semi-bold" id="nav-vision-tab" data-bs-toggle="tab" data-bs-target="#nav-vision" type="button" role="tab" aria-controls="nav-vision" aria-selected="false">Vinn Job</button>
+                                <button class="nav-link fw-semi-bold" id="nav-vision-tab" data-bs-toggle="tab" data-bs-target="#nav-hrms" type="button" role="tab" aria-controls="nav-hrms" aria-selected="false">Vinn HRMS</button>
+                            </div>
+                        </nav>
+                        <div class="tab-content" id="nav-tabContent">
+                            <div class="tab-pane fade show active" id="nav-story" role="tabpanel" aria-labelledby="nav-story-tab">
+                                <p>Vinn Knowledge is a comprehensive and user-friendly platform that provides learners
+                                    with access to high-quality education around the world. With a wide range of
+                                    courses, specializations, and degree programs available.</p>
+                            </div>
+                            <div class="tab-pane fade" id="nav-mission" role="tabpanel" aria-labelledby="nav-mission-tab">
+                                <p>Vinn Test is to unleash your potential, unlock your success. Experience seamless
+                                    assessment and personalized feedback, revolutionizing the way you excel in your
+                                    endeavours.</p>
+                            </div>
+                            <div class="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
+                                <p>Vinn Job platform play a pivotal role for organizations in keeping this lifeline
+                                    steady. HR managers and recruiters post their requirements on the top job portals,
+                                    screen applications, shortlist suitable candidates and bring the right set to the
+                                    interviews.</p>
+                            </div>
+                            <div class="tab-pane fade" id="nav-hrms" role="tabpanel" aria-labelledby="nav-hrms-tab">
+                                <p>Vinn HRMS will streamline your workforce management with precision and ease. From
+                                    talent acquisition to performance evaluation, empower your HR department with an
+                                    all-in-one solution for optimized efficiency and employee satisfaction.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End About Us-->
+    <!-- Why Choose Us -->
+    <div class="container-xxl feature py-5">
+        <div class="container">
+            <div class="row g-5 align-items-center">
+                <div class="col-lg-6">
+                    <p class="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">Why Choosing Us!</p>
+                    <h1 class="display-5 mb-4">Few Reasons Why People Choosing Us!</h1>
+                </div>
+                <div class="col-lg-6">
+                    <div class="row g-4 align-items-center">
+                        <div class="col-md-6">
+                            <div class="row g-4">
+                                <div class="col-12">
+                                    <div class="feature-box border rounded p-4">
+                                        <i class="fa fa-check fa-3x text-primary mb-3"></i>
+                                        <h4 class="mb-3">Mission</h4>
+                                        <p class="mb-3">"At our training and placement company, our mission is to
+                                            empower students with the skills, knowledge, and opportunities they need to
+                                            succeed in their careers. We are committed to providing comprehensive
+                                            training programs and robust placement assistance, ensuring that every
+                                            student is equipped for a bright and fulfilling professional journey."</p>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="feature-box border rounded p-4">
+                                        <i class="fa fa-check fa-3x text-primary mb-3"></i>
+                                        <h4 class="mb-3">Vision</h4>
+                                        <p class="mb-3">"Our vision is to be a leading provider of comprehensive
+                                            training and placement services, recognized for our unwavering commitment to
+                                            student success, industry relevance, and strategic partnerships. We strive
+                                            to empower individuals with the skills and opportunities they need to excel
+                                            in their careers, driving positive impact and shaping the future of the
+                                            workforce."</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="feature-box border rounded p-4">
+                                <i class="fa fa-check fa-3x text-primary mb-3"></i>
+                                <h4 class="mb-3">Goal</h4>
+                                <p class="mb-3">"Our goal is to enhance the quality of learning and teaching to improve
+                                    the effectiveness and efficiency as per students requirements in this platform "</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Why Choose Us End -->
+    <!-- Footer Start -->
+    <div class="container-fluid bg-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s" style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-lg-3 col-md-6">
+                    <h5 class="mb-4" style="color: white;">Our Office</h5>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>Bhive Workspace,<br>L-194,Santhosapuram, Sector
+                        6,<br>HSR Layout, Bengaluru,<br>Karnataka 560101.</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>+91-9686648886</p>
+                    <p><i class="fa fa-envelope me-3"></i>info@vinntechnologies.com</p>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 class="mb-4" style="color: white;">Explore</h5>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/vinn_knowledge.html">Vinn Knowledge</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/vinn_test.html">Vinn Test</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/vinn_jobs.html">Vinn Jobs</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/vinn_hrms.html">Vinn HRMS</a>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 class="mb-4" style="color: white;">Company</h5>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/about_us.html">About Us</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/contact_us.html">Contact Us</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/products.html">Product &amp; Services</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/terms_conditions.html">Terms &amp; Condition</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/privacy_policy.html">Privacy Policy</a>
+                    <a class="btn btn-link" href="https://vinntechnologies.com/refund_policy.html">Refund Policy</a>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <h5 class="mb-4" style="color: white;">Follow Us</h5>
+                    <div class="d-flex">
+                        <a class="btn btn-square rounded-circle me-1" href="https://vinntechnologies.com/about.html"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-square rounded-circle me-1" href="https://vinntechnologies.com/about.html"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-square rounded-circle me-1" href="https://vinntechnologies.com/about.html"><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-square rounded-circle me-1" href="https://vinntechnologies.com/about.html"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                    <h4 class="mb-4" style="color: white;">Newsletter</h4>
+                    <p>I would like to receive emails from Vinn Technologies.</p>
+                    <div class="position-relative w-100">
+                        <input class="form-control bg-white border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
+                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                        ©2023 <a href="https://www.vinntechnologies.com/">Vinn Technologies</a>, All Right Reserved.
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
+                        Designed &amp; Distributed by <a href="https://htmlcodex.com/">Vinn Technologies</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="https://vinntechnologies.com/about.html#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="./03_files/jquery-3.4.1.min.js.download"></script>
+    <script src="./03_files/bootstrap.bundle.min.js.download"></script>
+    <script src="./03_files/wow.min.js.download"></script>
+    <script src="./03_files/easing.min.js.download"></script>
+    <script src="./03_files/waypoints.min.js.download"></script>
+    <script src="./03_files/owl.carousel.min.js.download"></script>
+    <script src="./03_files/counterup.min.js.download"></script>
+
+    <!-- Template Javascript -->
+    <script src="./03_files/main.js.download"></script>
+
+
+</body></html>
